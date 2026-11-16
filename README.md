@@ -214,7 +214,5 @@ Feedstock Maintainers
 
 * [@mariusvniekerk](https://github.com/mariusvniekerk/)
 * [@martindurant](https://github.com/martindurant/)
-
-
-<!-- dummy commit to enable rerendering -->
+* [@traversaro](https://github.com/traversaro/)
 
